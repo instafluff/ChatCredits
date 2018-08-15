@@ -12,7 +12,7 @@ We built this Twitch-integrated chat credits generator live on Twitch!
 ## Credits ##
 Thank you too all the participants of this project!
 
-**Thedudeskee, kaisuke, Zoraketh, blackdawn1980, That_MS_Gamer, Neo_TA, Instafriend, sparky_pugwash, MacabreMan2, GeoRevilo, nightsilas, guthron, BungalowGlow, RikuRinku, VioletOsK, ChampionTofu, TheUnderdogTM, QeraiX**
+**Thedudeskee, kaisuke, Zoraketh, blackdawn1980, That_MS_Gamer, Neo_TA, Instafriend, sparky_pugwash, MacabreMan2, GeoRevilo, nightsilas, TheHungerService, guthron, BungalowGlow, RikuRinku, VioletOsK, AgroKragle, momokohyhy, BountyHunterLani, ClumsyWolfy, OddAssasin99, prettypurplepuffypegasus, fluffybluegalixyblooddog, ChampionTofu, TheUnderdogTM, QeraiX**
 
 ## Instructions ##
 
